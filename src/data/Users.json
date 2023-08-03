@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "username":"Odalis",
+        "email":"odalis@gmail.com",
+        "urlImage":"https://picsum.photos/200",
+        "description":"Soy una persona que siempre busca la belleza en la simplicidad. Como amante de la naturaleza, me encanta la sensación del viento en mi cara y la tierra bajo mis pies. Soy introvertida, pero eso no significa que no disfrute de una buena conversación."
+    },
+    {
+        "id":2,
+        "username":"Camila",
+        "email":"camila123@gmail.com",
+        "urlImage":"https://picsum.photos/200?",
+        "description":"Soy una explosión de energía y entusiasmo, siempre dispuesta a enfrentar nuevos desafíos con una sonrisa. Creo firmemente en el poder de los pensamientos positivos y me encanta animar a quienes me rodean."
+    },
+    {
+        "id":3,
+        "username":"Richard",
+        "email":"guachrichard@gmail.com",
+        "urlImage":"https://picsum.photos/200??",
+        "description":"Me considero un pensador lógico y analítico. Siempre estoy buscando entender cómo funcionan las cosas y no me conformo hasta que encuentro respuestas a mis preguntas."
+
+    }, 
+    {
+        "id":4,
+        "username":"Rodrigo López",
+        "email":"rlopez@gmail.com",
+        "urlImage":"https://picsum.photos/200???",
+        "description":"Me considero un pensador lógico y analítico. Siempre estoy buscando entender cómo funcionan las cosas y no me conformo hasta que encuentro respuestas a mis preguntas."
+
+    }
+]
