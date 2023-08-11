@@ -20,7 +20,12 @@ export default {
           '900': '#0a4a3d',
           '950': '#052923',
       },      
+      
         
+      },
+      backgroundImage: {
+        'bg-programming':'url("./src/assets/programming.jpg")',
+
       }
     },
   },

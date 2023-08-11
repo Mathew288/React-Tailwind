@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.nav-items{
+    @apply bg-shamrock-800 ease-linear duration-300;
+}
+
 *{
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
@@ -9,4 +13,8 @@
 
 body{
     background-color: rgb(214, 214, 214);
+}
+
+.nav-items{
+    @apply bg-inherit py-2 hover:bg-shamrock-500 ease-linear duration-100 w-full text-center;
 }

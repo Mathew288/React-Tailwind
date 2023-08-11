@@ -2,7 +2,7 @@ import ProductCard from "../products/ProductCard";
 
 export default function Contact() {
     return (
-        <div>
+        <div className="h-screen w-full">
             <ProductCard></ProductCard>
             
         </div>
